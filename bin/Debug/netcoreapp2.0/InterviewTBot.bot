@@ -1,0 +1,61 @@
+{
+  "name": "InterviewTBot",
+  "padlock": "6MMF1scbDnZQA+5IiYgaeQ==!LDJF78gpUjsa4nvTkylm0R6y260fW5JAOgZispAzrpWpXHg8c85QffrOKxnfrPSY",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "aab96744-4284-4fa7-bbe4-2dc9223d3b76",
+      "subscriptionId": "471af3b1-5f48-43a1-bdb3-b26fe7caf6bd",
+      "resourceGroup": "InterviewTBot",
+      "serviceName": "InterviewTBot",
+      "type": "abs",
+      "name": "InterviewTBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "Kt8scoK8UmFQm0luoaznRw==!aQ8Md0PqYR0qn8qR3XIXJlMOleIKZ/Vvk+1klXkfaibE70Lcb7akdlG9REQlHK4RWGinTSldM9oL45fdadO24kJpTjWrSiKkpqCnodMyKhSdFrXxk5MT2B2fz0QgJ3dwr3vUVuygEz4zMyYAt1Jp8JTJl6pTfZZPV4bjmm1f94nhLrd2qD4IvsFLETOdeA3ETwWpDitOfz7u7enVbhrSysya777uGxJZiD3ClyNHGNM=",
+      "tenantId": "aab96744-4284-4fa7-bbe4-2dc9223d3b76",
+      "subscriptionId": "471af3b1-5f48-43a1-bdb3-b26fe7caf6bd",
+      "resourceGroup": "InterviewTBot",
+      "serviceName": "interviewtbot8ec3",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "c976606c-b96a-4ab7-92be-43b94ca16f17",
+      "appPassword": "eWfyjIohIsoEEsWj0oTiHA==!7ZmKVXrluPXl5m9xqms+a4e3W499hDmcP+SZXu5hg2M=",
+      "endpoint": "https://interviewtbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "EUTZK+euHkrdXZmM4kLZ9w==!FtBRcrKAOZ645NoUgm91qj39DatlXdAPAwrF0F5ha29NYZlRwmCB9ka0oEnBrAGx",
+      "applicationId": "f68370bc-149c-430d-88df-105dfdd4ed6e",
+      "apiKeys": {},
+      "tenantId": "aab96744-4284-4fa7-bbe4-2dc9223d3b76",
+      "subscriptionId": "471af3b1-5f48-43a1-bdb3-b26fe7caf6bd",
+      "resourceGroup": "InterviewTBot",
+      "serviceName": "InterviewTBotbxx7ug",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "0f5efc3f-93e8-488e-98d5-a4fa635cbbe6",
+      "authoringKey": "aEH43wWMqFCZHCd0i5w5uA==!IARZNKF9HiEiPaoaHw2J+h7XgM1+OpzeZlX7JV5OUNbR4hWbDyI5j3+ZoermIcwo",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}

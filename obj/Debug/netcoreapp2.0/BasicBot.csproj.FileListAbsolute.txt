@@ -1,0 +1,12 @@
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\InterviewTBot.bot
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Repos\InterviewTBot-src\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Repos\InterviewTBot-src\obj\Debug\netcoreapp2.0\BasicBot.pdb
